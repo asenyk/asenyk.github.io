@@ -1,0 +1,20 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "avatar-url": "./avatar.png",
+      "avatar-alt": "JB",
+      "user-name": "Jennifer B",
+      "rating": 3,
+      "review": "Lorem ipsum ..."
+    },
+    {
+      "id": 2,
+      "avatar-url": "./avatar.png",
+      "avatar-alt": "JC",
+      "user-name": "Jennifer C",
+      "rating": 5,
+      "review": "Lorem ipsum 2 ..."
+    },
+  ],
+}
